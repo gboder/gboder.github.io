@@ -28,6 +28,11 @@ Status d'indépendant depuis 2018 avec des activités dans l'infrastructure IT e
 - Relevé automatique d'un compteur Landys+Gir au travers du port IR
 - Operation de la solution Bitwarden sur platforme Azure
 
+### Recherches et centres d'interêts
+
+- Solution cloud moins liées aux grand fournisseurs (Jelastic, Kubernetes...)
+- Solution OpenSource
+
 ## Formations et Certifications
 
 - 2021 - Azure Solution Architect Expert (Cours et certification)
@@ -42,3 +47,9 @@ Status d'indépendant depuis 2018 avec des activités dans l'infrastructure IT e
 - Certification Azure Solution Architect Expert
 - Certification SCRUM Master
 - Certification OSSTMM OPST (Professional Security Tester)
+
+## Réseaux
+
+- [LinkedIn](https://www.linkedin.com/in/gautierboder/)
+- [GitHub](https://github.com/gboder)
+- [Twitter](https://twitter.com/gboder)
