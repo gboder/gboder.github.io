@@ -13,3 +13,6 @@ Je travaille depuis plus de 7ans chez GARAIO AG, ayant été recruté comme Soft
 ## Parcours Profesionnel
 
 ## Projets Personnels
+
+## Formations et Certifications
+
