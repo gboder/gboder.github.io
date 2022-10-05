@@ -1,7 +1,3 @@
-# Gautier Boder
-
-Brief publicly-avaiable information set about myself.
-
 ## Qui suis-je
 
 Né à Orvin (Suisse, Bern) en 1985, je suis marié et ait deux jeunes enfants. Nous habitons une maion, ancienne ferme renovée, en campagne.
