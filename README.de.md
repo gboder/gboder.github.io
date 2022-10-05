@@ -10,9 +10,9 @@ Je travaille depuis plus de 7ans chez GARAIO AG, ayant été recruté comme Soft
 
 ## Parcours Profesionnel
 
-- 2003-2007 - MGI Luxury Group S.A.
-- 2007-2008 - Leafit Schrag AG
-- 2008-2015 - SwissTiming LTD
+- 2004-2007 - MGI Luxury Group S.A.
+- 2007-2009 - Leafit Schrag AG
+- 2009-2015 - SwissTiming LTD
 - 2015- - GARAIO AG
 
 Status d'indépendant depuis 2018 avec des activités dans l'infrastructure IT et gestion de réseau d'entreprises pour une occupation d'environ <1%/an.
