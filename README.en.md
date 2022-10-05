@@ -1,4 +1,4 @@
-__fr__/[en](README.en.md)/[de](README.de.md)
+[fr](README.md)/__en__/[de](README.de.md)
 
 ## Qui suis-je
 
